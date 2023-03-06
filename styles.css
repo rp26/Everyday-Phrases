@@ -1,0 +1,26 @@
+#body {
+    background-color: #A7C7E7;
+}
+
+
+
+#hello {
+    text-align: center;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 10px;
+    background-color: #A7C7E7;
+}
+
+.nav-button {
+    list-style-type:none;
+    display: inline;
+    padding-right: 10px;
+    font-size: 30px;
+
+}
+
+.navigation {
+    background-color: #A7C7E7;
+}
+
